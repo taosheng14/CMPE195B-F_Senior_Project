@@ -11,14 +11,14 @@ How does our web work:
 https://youtu.be/SL6-usAF8eI
 
 and some test accounts or you can signup a new one:
-test1@gmail.com
-12345678
+UN:test1@gmail.com
+PW:12345678
 
-test2@gmail.com
-12345678
+UN:test2@gmail.com
+PW:12345678
 
-test3@gmail.com
-12345678
+UN:test3@gmail.com
+PW:12345678
 
 
 
